@@ -1,0 +1,44 @@
+{
+  "id": "2163207",
+  "name": "videoPla'y",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9351221",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "11156528",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e85b",
+      "unicode_decimal": 59483
+    },
+    {
+      "icon_id": "3513023",
+      "name": "音量",
+      "font_class": "volume",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "8663820",
+      "name": "全屏",
+      "font_class": "screen",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "12302729",
+      "name": "暂停 停止",
+      "font_class": "pause",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
